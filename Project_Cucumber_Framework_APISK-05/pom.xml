@@ -101,11 +101,7 @@
     <artifactId>cucumber-java</artifactId>
     <version>7.15.0</version>
 </dependency>
-  	<dependency>
-  		<groupId>APISK05_Automation</groupId>
-  		<artifactId>APISKRestAutomation</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 
   <build>
